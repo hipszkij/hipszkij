@@ -3,7 +3,7 @@
 
 # 💫 About Me:
 
-Currently, I work as a **Full-Stack Developer**, utilizing **PHP**, **Kotlin**, and **Vue.js** in my daily work. On the backend, I actively build and maintain applications using the **Laravel** and **Spring Boot** frameworks, backed by **PostgreSQL** and **MySQL** database systems.
+Currently, I work as a **Full-Stack Developer**, utilizing **PHP**, **Kotlin**, and **Vue.js** in my daily work. On the backend, I actively build and maintain applications using the **Laravel** and **Spring Boot** frameworks.
 
 In my free time, I enjoy working with **Flutter** for cross-platform mobile development as a hobby project.
 
